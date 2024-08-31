@@ -9,3 +9,4 @@ C:\Users\Garima Ranjan\source\repos\MementoDesignPattern\MementoTextEditor\obj\D
 C:\Users\Garima Ranjan\source\repos\MementoDesignPattern\MementoTextEditor\obj\Debug\net6.0\refint\MementoTextEditor.dll
 C:\Users\Garima Ranjan\source\repos\MementoDesignPattern\MementoTextEditor\obj\Debug\net6.0\MementoTextEditor.pdb
 C:\Users\Garima Ranjan\source\repos\MementoDesignPattern\MementoTextEditor\obj\Debug\net6.0\ref\MementoTextEditor.dll
+C:\Users\Garima Ranjan\source\repos\MementoDesignPattern\MementoTextEditor\obj\Debug\net6.0\MementoTextEditor.sourcelink.json

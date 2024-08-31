@@ -13,7 +13,7 @@
 
         public bool Undo(TextEditor textEditor) 
         {
-            if (_undoStack.Count > 0)
+            if (_undoStack.Count > 1)
             {
                 _redoStack.Push(textEditor.SaveToMemento());
                 _undoStack.Pop();

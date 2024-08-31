@@ -169,3 +169,4 @@ C:\Users\Garima Ranjan\source\repos\MementoDesignPattern\UnitTests\obj\Debug\net
 C:\Users\Garima Ranjan\source\repos\MementoDesignPattern\UnitTests\obj\Debug\net6.0\UnitTests.pdb
 C:\Users\Garima Ranjan\source\repos\MementoDesignPattern\UnitTests\obj\Debug\net6.0\UnitTests.genruntimeconfig.cache
 C:\Users\Garima Ranjan\source\repos\MementoDesignPattern\UnitTests\obj\Debug\net6.0\ref\UnitTests.dll
+C:\Users\Garima Ranjan\source\repos\MementoDesignPattern\UnitTests\obj\Debug\net6.0\UnitTests.sourcelink.json
