@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Garima Ranjan\\source\\repos\\MementoDesignPattern\\UnitTests\\UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Garima Ranjan\\source\\repos\\MementoDesignPattern\\MementoTextEditor\\MementoTextEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Garima Ranjan\\source\\repos\\MementoDesignPattern\\MementoTextEditor\\MementoTextEditor.csproj",
+        "projectName": "MementoTextEditor",
+        "projectPath": "C:\\Users\\Garima Ranjan\\source\\repos\\MementoDesignPattern\\MementoTextEditor\\MementoTextEditor.csproj",
+        "packagesPath": "C:\\Users\\Garima Ranjan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Garima Ranjan\\source\\repos\\MementoDesignPattern\\MementoTextEditor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Garima Ranjan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Garima Ranjan\\source\\repos\\MementoDesignPattern\\UnitTests\\UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Garima Ranjan\\source\\repos\\MementoDesignPattern\\UnitTests\\UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "C:\\Users\\Garima Ranjan\\source\\repos\\MementoDesignPattern\\UnitTests\\UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Garima Ranjan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Garima Ranjan\\source\\repos\\MementoDesignPattern\\UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Garima Ranjan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Garima Ranjan\\source\\repos\\MementoDesignPattern\\MementoTextEditor\\MementoTextEditor.csproj": {
+                "projectPath": "C:\\Users\\Garima Ranjan\\source\\repos\\MementoDesignPattern\\MementoTextEditor\\MementoTextEditor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.5.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.5.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
