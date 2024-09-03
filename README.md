@@ -32,7 +32,8 @@ The following project is a simple Text Editor that displays the most recent text
 
 ## Coverage Report
 A coverage report using [reportgenerator](https://reportgenerator.io/getstarted)
-(Coverage_report)[https://gr1310.github.io/MementoDesignPattern/]
+
+[Coverage_report](https://gr1310.github.io/MementoDesignPattern/)
 The report verifies 100% code coverage for non-UX modules.
 # Environment
 The project builds and runs with Visual Studio Community 2022 when the required workloads are installed.
