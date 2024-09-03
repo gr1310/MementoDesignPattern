@@ -23,7 +23,7 @@ namespace UnitTests
             editor.SetText(finalText);
             history.SaveState( editor );
 
-            Assert.AreEqual(initialText + " " + finalText, editor.GetText());
+            Assert.AreEqual("Hello World", editor.GetText());
 
             bool canBeUndone = history.Undo( editor );
 

@@ -36,7 +36,7 @@ namespace MementoTextEditor
         {
             if (_text != string.Empty)
             {
-                _text = _text + " " + text; // adding space between words typed
+                _text = $"{_text} {text}"; // adding space between words typed
             }
             else
             {
