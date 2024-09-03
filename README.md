@@ -23,9 +23,13 @@ This object is responsible for storing and restoring Memento objects. It keeps a
 
 ## About the project
 The following project is a simple Text Editor that displays the most recent text entered by the user, the user can undo (to get back to the previous state if exists) or redo (to get the next state if exists).
-- TextEditor: This is the originator class
-- Memento: Stores the state of TextEditor
-- HistoryCaretaker: Keeps history of the states
+- TextEditor: This is the originator class. It provides functionality to set and retrieve text, while also offering mechanisms to save the current state into a Memento object and restore it from a Memento.
+- Memento: Stores the state of TextEditor, and is responsible for encapsulating and storing the state of TextEditor object.
+- HistoryCaretaker: Manages the history of text states for a TextEditor object, enabling undo and redo functionalities. It maintains two stacks: an undo stack to track previous states and a redo stack to handle future states.
+
+The project demonstrates The Memento Design Pattern, it also demonstrates principle such as 
+- Encapsulation (hides the internal state of TestEditor object and only exposes necessary operations),
+- Open/Close Principle (Code is open for extension but closed for modification),
 
 ## Class and Module Diagram
 ![Module & Class diagram](ModClassDiag.png)
