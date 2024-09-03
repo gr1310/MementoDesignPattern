@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UXModule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80da503e636caed58e126bcd01bfc330e24371c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UXModule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UXModule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

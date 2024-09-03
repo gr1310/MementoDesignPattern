@@ -7,7 +7,7 @@ namespace UXModule
         public static void Main(string[] args)
         {
             TextEditor editor = new();
-            Caretaker caretaker = new();
+            HistoryCaretaker caretaker = new();
 
             while (true)
             {
