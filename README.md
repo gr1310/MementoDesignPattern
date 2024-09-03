@@ -15,3 +15,9 @@ The following project is a simple Text Editor that displays the most recent text
 - TextEditor : This is the originator class
 - Memento : Stores the state of TextEditor
 - Caretaker : Keeps history of the states
+
+## Class and Module Diagram
+![Module & Class diagram](ModuleAndClassDiagram.png)
+
+# Environment
+The project builds and runs with Visual Studio Community 2022 when the required workloads are installed.
