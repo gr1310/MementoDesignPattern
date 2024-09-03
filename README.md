@@ -7,7 +7,7 @@ Behavioral design patterns focus on defining interactions between objects. Examp
 
 # Memento Design Pattern
 Memento is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
-Real world examples:
+Real-world examples:
 - GUI editor (e.g. MS Paint)
 - Drawing Applications
 - Video Games progress state management
@@ -30,5 +30,9 @@ The following project is a simple Text Editor that displays the most recent text
 ## Class and Module Diagram
 ![Module & Class diagram](ModuleAndClassDiagram.png)
 
+## Coverage Report
+A coverage report using [reportgenerator](https://reportgenerator.io/getstarted)
+(Coverage_report)[https://gr1310.github.io/MementoDesignPattern/]
+The report verifies 100% code coverage for non-UX modules.
 # Environment
 The project builds and runs with Visual Studio Community 2022 when the required workloads are installed.
