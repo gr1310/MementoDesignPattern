@@ -28,7 +28,7 @@ The following project is a simple Text Editor that displays the most recent text
 - HistoryCaretaker: Keeps history of the states
 
 ## Class and Module Diagram
-![Module & Class diagram](ModuleAndClassDiagram.png)
+![Module & Class diagram](ModClassDiag.png)
 
 ## Coverage Report
 A coverage report using [reportgenerator](https://reportgenerator.io/getstarted)
