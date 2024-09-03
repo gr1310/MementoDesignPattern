@@ -8,7 +8,7 @@ Behavioral design patterns focus on defining interactions between objects. Examp
 # Memento Design Pattern
 Memento is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
 
-## The Memento Design Pattern consists of following components
+## The Memento Design Pattern consists of the following components
 
 ### 1. Originator
 This is the object whose state you want to save and restore.
